@@ -18,7 +18,7 @@
 
   ![image-20191224230135618](/Users/fanding/gitProjects/notes/git/img/image-20191224230135618.png)
 
-# 回滚命令
+## 回滚命令
 
 - git reset —hard +  版本号
 
@@ -32,4 +32,18 @@
   --mix： 仅本地库和缓冲区回滚，工作区保持不变
   ```
 
-  
+## 比较差异
+
+- git diff 版本号 文件名 
+
+  ```
+  和某个版本号下的文件对比差异
+  ```
+
+## 解决冲突
+
+- git pull
+- 打开有冲突的文件，进行解决冲突
+- git add 文件名
+- git commit -m "merage"
+- 
