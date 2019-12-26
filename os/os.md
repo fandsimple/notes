@@ -196,4 +196,8 @@ https://www.youtube.com/watch?v=ujVSQDPwdOE&list=PLg5ULjirtivtd1p89jL5t1SKU6batB
 
 ### 进程互斥硬件手段
 
-- 
+![image-20191226220211324](/Users/fanding/gitProjects/notes/os/img/image-20191226220211324.png)
+
+### 死锁产生条件
+
+![image-20191226225004672](/Users/fanding/gitProjects/notes/os/img/image-20191226225004672.png)
