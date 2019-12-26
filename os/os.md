@@ -2,6 +2,14 @@
 
 # 操作系统笔记
 
+## 引用
+
+```
+https://www.youtube.com/watch?v=ujVSQDPwdOE&list=PLg5ULjirtivtd1p89jL5t1SKU6batBysz&index=8
+```
+
+
+
 ## 系统调用
 
 ![image-20191225161656493](/Users/fanding/gitProjects/notes/os/img/image-20191225161656493.png)
@@ -163,6 +171,29 @@
 
   ![image-20191226172954656](/Users/fanding/gitProjects/notes/os/img/image-20191226172954656.png)
 
-## 系统性能指标
+## 进程同步
 
-![image-20191226093645385](/Users/fanding/gitProjects/notes/os/img/image-20191226093645385.png)
+![image-20191226211549332](/Users/fanding/gitProjects/notes/os/img/image-20191226211549332.png)
+
+### 进程互斥软件手段
+
+- 单标记法
+
+  ![image-20191226212228441](/Users/fanding/gitProjects/notes/os/img/image-20191226212228441.png)
+
+- 双标记先检查法、双标记后检查法
+
+  - 双标记先检查法：打破忙则等待
+
+    ![image-20191226213226111](/Users/fanding/gitProjects/notes/os/img/image-20191226213226111.png)
+
+  - 双标记后检查法：打破有限等待
+
+    ![image-20191226213326877](/Users/fanding/gitProjects/notes/os/img/image-20191226213326877.png)
+
+- peterson算法解决了以上两种算法的问题:打破让权等待
+- ![image-20191226213816917](/Users/fanding/gitProjects/notes/os/img/image-20191226213816917.png)
+
+### 进程互斥硬件手段
+
+- 
