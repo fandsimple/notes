@@ -139,6 +139,30 @@
 
   ![image-20191226100009013](/Users/fanding/gitProjects/notes/os/img/image-20191226100009013.png)
 
+- 短作业优先
+
+  ![image-20191226100802827](/Users/fanding/gitProjects/notes/os/img/image-20191226100802827.png)
+
+  ![image-20191226101307247](/Users/fanding/gitProjects/notes/os/img/image-20191226101307247.png)
+
+- 高响应比优先
+
+  ![image-20191226101805534](/Users/fanding/gitProjects/notes/os/img/image-20191226101805534.png)
+
+- 时间片轮转（交互式系统）
+
+  ![image-20191226103129308](/Users/fanding/gitProjects/notes/os/img/image-20191226103129308.png)
+
+- 优先级调度（交互式系统）
+
+  ![image-20191226172130379](/Users/fanding/gitProjects/notes/os/img/image-20191226172130379.png)
+
+  ![image-20191226171708563](/Users/fanding/gitProjects/notes/os/img/image-20191226171708563.png)
+
+- 多级反馈队列调度（交互式系统）
+
+  ![image-20191226172954656](/Users/fanding/gitProjects/notes/os/img/image-20191226172954656.png)
+
 ## 系统性能指标
 
 ![image-20191226093645385](/Users/fanding/gitProjects/notes/os/img/image-20191226093645385.png)
