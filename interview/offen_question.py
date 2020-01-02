@@ -23,6 +23,8 @@ def getSecondWord(str1, str2):
     return resultList[1]
 
 
+
+
 if __name__ == '__main__':
     str1 = 'This is C programming text'
     str2 = 'This is a text for C programming'
