@@ -81,4 +81,3 @@ if __name__ == '__main__':
     # print(base64.b64decode(encodeStr))
     downloadVideo(downloadInfoMap)
 
-
