@@ -14,10 +14,5 @@ def p():
     yield 2
     yield 3
 
-print(next(p))
-pdb.set_trace()
-print(next(p))
-pdb.set_trace()
-print(next(p))
-
-
+print(next(p()))
+print(next(p()))
